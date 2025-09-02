@@ -138,7 +138,8 @@ https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 
 
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đồng Tháp 1
-http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+#http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1416178247.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đồng Tháp 2 — Miền Tây
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
 

@@ -145,7 +145,8 @@ https://live.canthotv.vn/live/cs3/chunklist_w288174403.m3u8
 #http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1416178247.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đồng Tháp 2 — Miền Tây
-http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#http://123.25.238.45:1935/live/thtg/playlist.m3u8
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1397876571.m3u8
 
 #EXTINF:-1 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Vĩnh Long 2
 #https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8

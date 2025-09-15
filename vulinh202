@@ -405,37 +405,38 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://xem.hoiquan.Click/BMT/boxmovie1/DoiTacDongGop.m3u8
+#https://xem.hoiquan.Click/BMT/boxmovie1/DoiTacDongGop.m3u8
+https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://xem.hoiquan.Click/BMT/hollywoodclassics/DoiTacDongGop.m3u8
+https://xem.hoiquan.Click/CoBan/hollywood-classics-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="inthebox" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://xem.hoiquan.Click/BMT/inthebox/DoiTacDongGop.m3u8
+https://xem.hoiquan.Click/CoBan/in-the-box-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="boxhits" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://xem.hoiquan.Click/BMT/boxhits/DoiTacDongGop.m3u8
+#https://xem.hoiquan.Click/BMT/boxhits/DoiTacDongGop.m3u8
+https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0 tvg-id="happykids"  group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg",Happy Kids
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://xem.hoiquan.Click/BMT/happykids/DoiTacDongGop.m3u8
-
+#https://xem.hoiquan.Click/BMT/happykids/DoiTacDongGop.m3u8
+https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0  tvg-id="drfithd" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png",Dr. Fit
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 #https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0  tvg-id="NET Hub" group-title="🇧🌎🇽" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/NetHub_logo.png/revision/latest/scale-to-width-down/1000?cb=20220305102210&path-prefix=vi",NET Hub
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#http://gg.gg/ccpremium
-#https://api.vthanhtivii.xyz/v1/getlink/nethub?id=nethub-thu-nghiem&cl=1&b=3
 
 #EXTINF:0  tvg-id="planetearthhd" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
+#https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
+https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:0  tvg-id="bbcearth" group-title="🇧🌎🇽" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"

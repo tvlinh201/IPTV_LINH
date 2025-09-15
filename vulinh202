@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://beer.housetv.tk/epg",tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="https://beer.housetv.tk/epg,http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml",tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-VTV
 

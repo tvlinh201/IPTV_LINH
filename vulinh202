@@ -404,28 +404,23 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!BOX
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referer=http://sctvonline.vn
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 https://xem.hoiquan.Click/BMT/boxmovie1/DoiTacDongGop.m3u8
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 https://xem.hoiquan.Click/BMT/hollywoodclassics/DoiTacDongGop.m3u8
 
 #EXTINF:0 tvg-id="inthebox" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://xem.hoiquan.Click/BMT/inthebox/DoiTacDongGop.m3u8
 
 #EXTINF:0 tvg-id="boxhits" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://xem.hoiquan.Click/BMT/boxhits/DoiTacDongGop.m3u8
 
 #EXTINF:0 tvg-id="happykids"  group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg",Happy Kids
-#EXTVLCOPT:http-referer=http://sctvonline.vn
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 https://xem.hoiquan.Click/BMT/happykids/DoiTacDongGop.m3u8
 
 
@@ -439,7 +434,7 @@ https://xem.hoiquan.Click/BMT/happykids/DoiTacDongGop.m3u8
 #https://api.vthanhtivii.xyz/v1/getlink/nethub?id=nethub-thu-nghiem&cl=1&b=3
 
 #EXTINF:0  tvg-id="planetearthhd" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_planet_earth.jpg",Planet Earth
-#EXTVLCOPT:http-referer=http://sctvonline.vn
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:0  tvg-id="bbcearth" group-title="🇧🌎🇽" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth

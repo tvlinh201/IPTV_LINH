@@ -120,7 +120,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",An Giang 1
 #https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
-https://xem.hoiquan.Click/CoBan/kien-giang/TuyetDoiKhongKinhDoanh.m3u8
+#https://xem.hoiquan.Click/CoBan/kien-giang/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",An Giang 2
 http://iptv.nhadai.org/stream/an-giang
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",An Giang 3

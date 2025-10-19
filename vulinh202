@@ -168,7 +168,7 @@ http://iptv.nhadai.org/stream/binh-duong-1
 http://iptv.nhadai.org/stream/binh-duong-2
 #EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",BTV9
 #https://tthd.site/360/151/index.m3u8
-#http://iptv.nhadai.org/stream/binh-duong-9
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://i.imgur.com/oQyioVa.png",Đồng Nai 1
 #https://tthd.site/360/53/index.m3u8

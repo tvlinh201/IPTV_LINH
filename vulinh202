@@ -137,7 +137,8 @@ http://iptv.nhadai.org/stream/can-tho
 #https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cantho" tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Cần Thơ 2
-https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cantho" tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Cần Thơ 3
 https://live.canthotv.vn/live/cs3/chunklist_w288174403.m3u8

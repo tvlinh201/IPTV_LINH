@@ -1,32 +1,10 @@
 {
   "id": "IPTV",
-  "name": "IPTV_VIETNAM",
   "color": "#672CBF",
-  "org_metadata": {
-    "image": "https://m3u-ip.com/images/m3u-iptv-white.png",
-    "title": "Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-    "description": "Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet"
-  },
-  "description": "Xem Truyền Hình Trực Tuyến Viet Nam",
+  "name": "IPTV_VIETNAM",
   "url": "http://s.id/vulinh209",
-  "image": {
-    "display": "contain",
-    "shape": "square",
-    "url": "https://m3u-ip.com/images/m3u-iptv-white.png",
-    "height": 101,
-    "width": 155
-  },
-
-  "grid_number": 1,
-  "groups": [{"id": "vtv","name": "VTV","channels": 
-  {"id": "VTV1_HD","name": "VTV1 HD","image": {"display": "cover","shape": "square","url": "http://iptv.nhadai.org/img/vtv1-hd.png","height": 101,"width": 155},"type": "single","display": "text-below",
-
-  "stream_links": [{"id": "vtv1-hd","name": "VTV1 HD","url": "http://iptv.nhadai.org/stream/vtv1-hd","type": "hls","default": true}],"remote_data": null
-  }
-                 
-  "share": {"url": "http://iptv.nhadai.org/share?q=vtv1-hd"},
-  "related": {"url": "http://iptv.nhadai.org/related?q=vtv1-hd"}
-            }]
+  "description": Xem Truyền Hình Trực Tuyến Viet Nam",
+  "disable_ads": true,
+  "grid_number": 3,
+  "image": {"type": "cover","url": "https://m3u-ip.com/images/m3u-iptv-white.png"},
 }
-
-

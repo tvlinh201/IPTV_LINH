@@ -1,65 +1,34 @@
 {
-  "epg": "http://lichphatsong.site/schedule/epg.xml",
-  "channels": [
+  "provider": "FPT Play",
+  "epg_source": "http://iptv.nhadai.org/v1",
+  "groups": [
     {
-      "id": "htv1",
-      "name": "HTV1",
-      "group": {
-        "title": "HTV",
-        "logo": "https://phuhdtv.github.io/thumbs/Groups/HTV.png"
-      },
-      "logo": "https://i.imgur.com/Z8Y74ih.png",
-      "url": "https://vc.101vn.com/htv/htvcmb.php?id=2631"
+      "name": "Nổi Bật",
+      "channels": [
+        { "id": "VTV1_HD", "name": "VTV1 HD", "url": "http://iptv.nhadai.org/stream/vtv1-hd" },
+        { "id": "VTV3_HD", "name": "VTV3 HD", "url": "http://iptv.nhadai.org/stream/vtv3-hd" },
+        { "id": "VTV5_HD", "name": "VTV5 HD", "url": "http://iptv.nhadai.org/stream/vtv5-hd" },
+        { "id": "VTV_CAN_THO", "name": "VTV Cần Thơ", "url": "http://iptv.nhadai.org/stream/vtv-can-tho" },
+        { "id": "VIETNAM_TODAY", "name": "VietNam Today", "url": "http://iptv.nhadai.org/stream/vietnam-today" },
+        { "id": "FPT_PLAY", "name": "FPT Play", "url": "http://iptv.nhadai.org/stream/fpt-play" },
+        { "id": "HTVC_THE_THAO", "name": "HTVC Thể Thao", "url": "http://iptv.nhadai.org/stream/htvc-the-thao" },
+        { "id": "HTV9_HD", "name": "HTV9 HD", "url": "http://iptv.nhadai.org/stream/htv9-hd" }
+      ]
     },
     {
-      "id": "htv2",
-      "name": "HTV2",
-      "group": {
-        "title": "HTV",
-        "logo": "https://phuhdtv.github.io/thumbs/Groups/HTV.png"
-      },
-      "logo": "https://i.imgur.com/Yc3cmAi.png",
-      "url": "https://vc.101vn.com/htv/htvcmb.php?id=2669"
-    },
-    {
-      "id": "htv3",
-      "name": "HTV3",
-      "group": {
-        "title": "HTV",
-        "logo": "https://phuhdtv.github.io/thumbs/Groups/HTV.png"
-      },
-      "logo": "https://i.imgur.com/2iE01Ca.png",
-      "url": "https://vc.101vn.com/htv/htvcmb.php?id=2535"
-    },
-    {
-      "id": "vinhlong1hd",
-      "name": "THVL1",
-      "group": {
-        "title": "Kênh Địa phương",
-        "logo": "https://i.imgur.com/ZCB4rmF.png"
-      },
-      "logo": "https://i.imgur.com/q3fjpYc.png",
-      "url": "http://iptv.nhadai.org/stream/thvl1"
-    },
-    {
-      "id": "vinhlong2hd",
-      "name": "THVL2",
-      "group": {
-        "title": "Kênh Địa phương",
-        "logo": "https://i.imgur.com/ZCB4rmF.png"
-      },
-      "logo": "https://i.imgur.com/kcanTCT.png",
-      "url": "http://iptv.nhadai.org/stream/vinh-long-2"
-    },
-    {
-      "id": "vinhlong3hd",
-      "name": "THVL3",
-      "group": {
-        "title": "Kênh Địa phương",
-        "logo": "https://i.imgur.com/ZCB4rmF.png"
-      },
-      "logo": "https://i.imgur.com/zS1zTpv.png",
-      "url": "http://iptv.nhadai.org/stream/vinh-long-3"
+      "name": "Cơ Bản",
+      "channels": [
+        { "id": "FPT_PLAY", "name": "FPT Play", "url": "http://iptv.nhadai.org/stream/fpt-play" },
+        { "id": "VTV1_HD", "name": "VTV1 HD", "url": "http://iptv.nhadai.org/stream/vtv1-hd" },
+        { "id": "VTV2_HD", "name": "VTV2 HD", "url": "http://iptv.nhadai.org/stream/vtv2-hd" },
+        { "id": "VTV3_HD", "name": "VTV3 HD", "url": "http://iptv.nhadai.org/stream/vtv3-hd" },
+        { "id": "VTV4_HD", "name": "VTV4 HD", "url": "http://iptv.nhadai.org/stream/vtv4-hd" },
+        { "id": "VTV_CAN_THO", "name": "VTV Cần Thơ", "url": "http://iptv.nhadai.org/stream/vtv-can-tho" },
+        { "id": "VTV5_HD", "name": "VTV5 HD", "url": "http://iptv.nhadai.org/stream/vtv5-hd" },
+        { "id": "VTV5_TAY_NAM_BO", "name": "VTV5 Tây Nam Bộ", "url": "http://iptv.nhadai.org/stream/vtv5-tay-nam-bo" },
+        { "id": "VTV5_TAY_NGUYEN", "name": "VTV5 Tây Nguyên", "url": "http://iptv.nhadai.org/stream/vtv5-tay-nguyen" },
+        { "id": "VTV7_HD", "name": "VTV7 HD", "url": "http://iptv.nhadai.org/stream/vtv7-hd" }
+      ]
     }
   ]
 }

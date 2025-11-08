@@ -12,13 +12,13 @@
   },
   "groups": [
     {
-      "id": "upcoming",
-      "name": "🔥Tâm Điểm Thể Thao",
+      "id": "VTV",
+      "name": "VTV",
       "image": null,
       "channels": [
         {
-          "id": "GJaoLYY",
-          "name": "🏸 Korea Masters 2025 | 09:00 08/11",
+          "id": "VTV1",
+          "name": "VTV1",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
@@ -28,34 +28,21 @@
             "url": "https://img-90p.4shares.live/mtc/20251108/bg_69088f2472b6e680e95ee3ef_1762579598964.webp",
             "width": 820,
             "height": 540
-          },
-          "enable_detail": false,
-          "sources": [],
-          "labels": [
-            {
-              "text": "👨‍💼Nhà Đài",
-              "position": "top-left",
-              "color": "#00601f",
-              "text_color": "#ffffff"
-            },
-            {
-              "text": "● Live",
-              "position": "top-right",
-              "color": "#E73131",
-              "text_color": "#ffffff"
-            }
-          ],
+
+                      "stream_links": [
+                        {
+                          "id": "vtv1-hd",
+                          "name": "VTV1 HD",
+                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
           "share": {
-            "url": "https://tctv.pro/match/GJaoLYY"
+            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
           },
           "remote_data": {
-            "url": "https://tctv.pro/match/GJaoLYY"
+            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
           },
-          "org_metadata": {
-            "image": "https://img-90p.4shares.live/mtc/20251108/bg_69088f2472b6e680e95ee3ef_1762579598964.webp",
-            "title": "Korea Masters 2025 | 09:00 08/11",
-            "description": "Korea Masters 2025 | 09:00 08/11"
-          }
-        }
-]}]
+        }}]}]
 }

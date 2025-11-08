@@ -9,5 +9,31 @@
   "image": {
     "type": "cover",
     "url": "https://m3u-ip.com/images/m3u-iptv-white.png"
-  }
+  },
+  "groups": [
+    {
+      "id": "vtv",
+      "name": "Kênh VTV",
+      "channels": [
+        {
+          "id": "VTV1_HD",
+          "name": "VTV1 HD",
+          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+          "image": {
+            "type": "square",
+            "url": "http://iptv.nhadai.org/img/vtv1-hd.png"
+          }
+        },
+        {
+          "id": "VTV2_HD",
+          "name": "VTV2 HD",
+          "url": "http://iptv.nhadai.org/stream/vtv2-hd",
+          "image": {
+            "type": "square",
+            "url": "http://iptv.nhadai.org/img/vtv2-hd.png"
+          }
+        }
+      ]
+    }
+  ]
 }

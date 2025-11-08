@@ -24,12 +24,6 @@
             "type": "square",
             "url": "http://iptv.nhadai.org/img/vtv1-hd.png"
           }
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
-          }
         },
         {
           "id": "VTV2_HD",
@@ -39,12 +33,6 @@
           "image": {
             "type": "square",
             "url": "http://iptv.nhadai.org/img/vtv2-hd.png"
-          }
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv2-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv2-hd"
           }
         },
       ]

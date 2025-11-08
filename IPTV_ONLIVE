@@ -1,1 +1,20 @@
+{
+  "id": "fptplay",
+  "name": "FPT Play",
+  "color": "#FF9E2D",
+  "org_metadata": {
+    "image": "http://iptv.nhadai.org/s-banner.png",
+    "title": "FPT Play - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
+    "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
+  },
+  "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế.",
+  "url": "http://iptv.nhadai.org/v1",
+  "image": {
+    "display": "contain",
+    "shape": "square",
+    "url": "http://iptv.nhadai.org/logo.png",
+    "height": 101,
+    "width": 155
+  }
+}
 

@@ -9,7 +9,6 @@
     "type": "cover",
     "url": "https://m3u-ip.com/images/m3u-iptv-white.png"
   },
-  "groups": [
     {
       "id": "vtv",
       "name": "Kênh VTV",
@@ -48,5 +47,4 @@
           },
       ]
     }
-  ]
-}
+  }

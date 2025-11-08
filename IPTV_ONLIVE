@@ -1,10 +1,19 @@
 {
   "id": "IPTV",
-  "color": "#672CBF",
   "name": "IPTV_VIETNAM",
+  "color": "#672CBF",
+  "org_metadata": {
+    "image": "https://m3u-ip.com/images/m3u-iptv-white.png",
+    "title": "Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
+    "description": "Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet"
+  },
+  "description": "Xem Truyền Hình Trực Tuyến Viet Nam",
   "url": "http://s.id/vulinh209",
-  "description": Xem Truyền Hình Trực Tuyến Viet Nam",
-  "disable_ads": true,
-  "grid_number": 3,
-  "image": {"type": "cover","url": "https://m3u-ip.com/images/m3u-iptv-white.png"},
-}
+  "image": {
+    "display": "contain",
+    "shape": "square",
+    "url": "https://m3u-ip.com/images/m3u-iptv-white.png",
+    "height": 101,
+    "width": 155
+  }
+

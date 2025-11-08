@@ -1,25 +1,26 @@
 {
-  "id": "fptplay",
-  "name": "IPTV",
-  "color": "#FF9E2D",
-  "org_metadata": {
-    "image": "http://iptv.nhadai.org/s-banner.png",
-    "title": "FPT Play - Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-    "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế."
-  },
-  "description": "FPT PLAY - Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet, FPT PLAY  là lựa chọn hàng đầu cho người dùng Việt Nam và quốc tế.",
-  "url": "http://s.id/vulinh209",
+  "id": "vtvgo",
+  "name": "VTVgo",
+  "url": "https://vtvgo.4share.me",
+  "color": "#004444",
   "image": {
-    "display": "contain",
-    "shape": "square",
-    "url": "http://iptv.nhadai.org/logo.png",
-    "height": 101,
-    "width": 155
+    "url": "https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png",
+    "display": "cover"
   },
-    "groups": [
+  "description": "VTVgo là sản phẩm của VTV, cung cấp nội dung trực tuyến đa dạng gồm kênh truyền hình, xem lại chương trình, Phim truyền hình, Video tin tức, Giải trí, Thể thao",
+  "share": {
+    "url": "https://vtvgo.4share.me"
+  },
+  "notice": {
+    "id": "notice",
+    "link": "https://t.me/xemgicungshare",
+    "icon": "https://vtvgo.4share.me/static/img/tele.png",
+    "closeable": true
+  },
+  "groups": [
     {
       "id": "tv",
-      "name": "TRUYỀN HÌNH VTV",
+      "name": "TRUYỀN HÌNH",
       "display": "horizontal",
       "grid_number": 1,
       "channels": [
@@ -208,5 +209,5 @@
         "url": "https://vtvgo.4share.me/livetv"
       }
     },
-]
+    ]
 }

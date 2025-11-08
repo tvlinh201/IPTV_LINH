@@ -16,16 +16,6 @@
       "name": "Kênh VTV",
       "channels": [
         {
-          "id": "VTV1_HD",
-          "name": "VTV1 HD",
-          "type": "hls",
-          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
-          "image": {
-            "type": "square",
-            "url": "http://iptv.nhadai.org/img/vtv1-hd.png"
-          }
-        },
-        {
           "id": "VTV2_HD",
           "name": "VTV2 HD",
           "type": "hls",
@@ -33,6 +23,16 @@
           "image": {
             "type": "square",
             "url": "http://iptv.nhadai.org/img/vtv2-hd.png"
+          }
+        },
+        {
+          "id": "VTV3_HD",
+          "name": "VTV3 HD",
+          "type": "hls",
+          "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+          "image": {
+            "type": "square",
+            "url": "http://iptv.nhadai.org/img/vtv3-hd.png"
           }
         },
       ]

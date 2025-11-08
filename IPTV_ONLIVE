@@ -18,7 +18,6 @@
         {
           "id": "VTV2_HD",
           "name": "VTV2 HD",
-          "type": "hls",
           "url": "http://iptv.nhadai.org/stream/vtv2-hd",
           "image": {
             "type": "square",
@@ -28,7 +27,6 @@
         {
           "id": "VTV3_HD",
           "name": "VTV3 HD",
-          "type": "hls",
           "url": "http://iptv.nhadai.org/stream/vtv3-hd",
           "image": {
             "type": "square",

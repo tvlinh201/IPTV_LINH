@@ -16,5 +16,121 @@
     "height": 101,
     "width": 155
   },
+  "grid_number": 1,
+  "groups": [
+    {
+      "id": "ca-nhan",
+      "name": "Nổi Bật",
+      "channels": [
+        {
+          "id": "VTV1_HD",
+          "name": "VTV1 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv1-hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv1-hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv1-hd",
+                      "name": "VTV1 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv1-hd",
+                          "name": "VTV1 HD",
+                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
+          }
+        },
+        {
+          "id": "VTV3_HD",
+          "name": "VTV3 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv3-hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv3-hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv3-hd",
+                      "name": "VTV3 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vtv3-hd",
+                          "name": "VTV3 HD",
+                          "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
+          }
+        },
+]
 }
-
+]
+}

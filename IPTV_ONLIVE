@@ -76,12 +76,7 @@
               ]
             }
           ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
-          }
+
         }
 ]
 }

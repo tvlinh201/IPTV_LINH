@@ -1,20 +1,61 @@
 {
   "id": "IPTV",
+  "color": "#dd5916",
   "name": "IPTV_VN",
-  "color": "#672CBF",
-  "org_metadata": {
-    "image": "https://m3u-ip.com/images/m3u-iptv-white.png",
-    "title": "Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-    "description": "Hệ thống kênh truyền hình trực tuyến đỉnh cao, tổng hợp các nội dung giải trí, thể thao, phim ảnh và chương trình đặc sắc nhất. Mang đến trải nghiệm mượt mà, chất lượng hình ảnh vượt trội qua kết nối Internet"
-  },
+  "url": "https://s.id/vulinh209",
   "description": "Xem Truyền Hình Trực Tuyến Viet Nam",
-  "url": "http://s.id/vulinh209",
+  "disable_ads": true,
+  "grid_number": 3,
   "image": {
-    "display": "contain",
-    "shape": "square",
-    "url": "https://m3u-ip.com/images/m3u-iptv-white.png",
-    "height": 101,
-    "width": 155
-  }
+    "type": "cover",
+    "url": "https://m3u-ip.com/images/m3u-iptv-white.png"
+  },
+  "groups": [
+    {
+      "id": "upcoming",
+      "name": "🔥Tâm Điểm Thể Thao",
+      "image": null,
+      "channels": [
+        {
+          "id": "GJaoLYY",
+          "name": "🏸 Korea Masters 2025 | 09:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "padding": 0,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img-90p.4shares.live/mtc/20251108/bg_69088f2472b6e680e95ee3ef_1762579598964.webp",
+            "width": 820,
+            "height": 540
+          },
+          "enable_detail": false,
+          "sources": [],
+          "labels": [
+            {
+              "text": "👨‍💼Nhà Đài",
+              "position": "top-left",
+              "color": "#00601f",
+              "text_color": "#ffffff"
+            },
+            {
+              "text": "● Live",
+              "position": "top-right",
+              "color": "#E73131",
+              "text_color": "#ffffff"
+            }
+          ],
+          "share": {
+            "url": "https://tctv.pro/match/GJaoLYY"
+          },
+          "remote_data": {
+            "url": "https://tctv.pro/match/GJaoLYY"
+          },
+          "org_metadata": {
+            "image": "https://img-90p.4shares.live/mtc/20251108/bg_69088f2472b6e680e95ee3ef_1762579598964.webp",
+            "title": "Korea Masters 2025 | 09:00 08/11",
+            "description": "Korea Masters 2025 | 09:00 08/11"
+          }
+        }
+]}]
 }
-

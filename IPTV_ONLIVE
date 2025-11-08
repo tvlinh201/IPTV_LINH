@@ -24,8 +24,8 @@
         {
           "id": "VTV1_HD",
           "name": "VTV1 HD",
-          "image_url": "http://iptv.nhadai.org/img/vtv1-hd.png",
-          "stream_url": "http://iptv.nhadai.org/stream/vtv1-hd",
+          "image_url": "http://iptv.nhadai.org/img/vtv1-hd.png","height": 101,"width": 155          
+"stream_url": "http://iptv.nhadai.org/stream/vtv1-hd",
           "stream_type": "hls"
         }
       ]

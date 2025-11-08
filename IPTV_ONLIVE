@@ -10,39 +10,4 @@
     "type": "cover",
     "url": "https://m3u-ip.com/images/m3u-iptv-white.png"
   },
-  "groups": [
-    {
-      "id": "VTV",
-      "name": "VTV",
-      "image": null,
-      "channels": [
-        {
-          "id": "VTV1",
-          "name": "VTV1",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "padding": 0,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img-90p.4shares.live/mtc/20251108/bg_69088f2472b6e680e95ee3ef_1762579598964.webp",
-            "width": 820,
-            "height": 540
-
-                      "stream_links": [
-                        {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
-          },
-          "remote_data": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
-          },
-        }}]}]
 }

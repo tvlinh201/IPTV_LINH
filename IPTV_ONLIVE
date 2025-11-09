@@ -1,7 +1,7 @@
 {
   "id": "iptv vn",
   "name": "IPTV VN",
-  "url": "https://vtvgo.4share.me",
+  "url": "https://s.id/vulinh209",
   "color": "#672CBF",
   "image": {
     "url": "https://m3u-ip.com/images/m3u-iptv-white.png",
@@ -9,13 +9,7 @@
   },
   "description": "Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
   "share": {
-    "url": "https://vtvgo.4share.me"
-  },
-  "notice": {
-    "id": "notice",
-    "link": "https://t.me/xemgicungshare",
-    "icon": "https://vtvgo.4share.me/static/img/tele.png",
-    "closeable": true
+    "url": "https://s.id/vulinh209"
   },
   "groups": [
     {

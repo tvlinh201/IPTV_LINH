@@ -304,7 +304,6 @@
           "type": "single",
           "display": "thumbnail-only",
             "url": "http://iptv.nhadai.org/stream/vtv1-hd"
-            "type": "hls"
             "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675159127.webp",
             "width": 150,

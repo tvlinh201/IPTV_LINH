@@ -14,7 +14,7 @@
   "groups": [
     {
       "id": "tv",
-      "name": "TRUYỀN HÌNH",
+      "name": "VTV",
       "display": "horizontal",
       "grid_number": 1,
       "channels": [ 

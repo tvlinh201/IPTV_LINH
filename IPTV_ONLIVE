@@ -310,7 +310,7 @@
             "padding": 20
           },
           "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/1"
+            "url": "http://iptv.nhadai.org/stream/vtv1-hd"
           }
         },
         {
@@ -325,7 +325,7 @@
             "padding": 20
           },
           "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/2"
+            "url": "http://iptv.nhadai.org/stream/vtv2-hd"
           }
         },
         {

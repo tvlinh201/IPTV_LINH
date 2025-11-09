@@ -66,9 +66,6 @@
           "share": {
             "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
           },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
-          }
         },
         {
           "id": "VTV3_HD",

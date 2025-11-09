@@ -63,9 +63,7 @@
               ]
             }
           ],
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
-          }
+          "related": null
         },
         {
           "id": "VTV3_HD",

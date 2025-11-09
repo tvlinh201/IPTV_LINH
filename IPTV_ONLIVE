@@ -309,7 +309,7 @@
             "height": 90,
             "padding": 20
           },
-          "remote_data": {
+          "stream_kinks": {
             "url": "https://iptv.nhadai.org/stream/vtv3-hd"
           }
         },

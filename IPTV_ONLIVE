@@ -25,8 +25,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV3_150x902_1675158867.webp",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
     
@@ -40,8 +40,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV4_150x901_1675158857.webp",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -55,8 +55,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -70,8 +70,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV5_150x901_1675158859.webp",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -85,8 +85,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/rame2608629831.jpg",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -100,8 +100,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv5-tay-nguyen1.jpg",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -115,8 +115,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV7_150x901_1675158864.webp",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -130,8 +130,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/8_150x901_167515886611.jpg",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -145,8 +145,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV9_150x901_1675158866.webp",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {
@@ -160,8 +160,8 @@
           "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
-            "width": 150,
-            "height": 90,
+            "width": 155,
+            "height": 101,
             "padding": 20
           },
           "remote_data": {

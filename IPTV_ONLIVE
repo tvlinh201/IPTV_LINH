@@ -314,6 +314,8 @@
         {
           "id": "2",
           "name": "VTV2",
+          "type": "single",
+          "display": "thumbnail-only",
           "image": {
             "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV2_150x902_1675158864.webp",
             "width": 150,

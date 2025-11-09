@@ -313,7 +313,7 @@
         {
           "id": "2",
           "name": "VTV2",
-          "url": "http://iptv.nhadai.org/stream/vtv2-hd",
+          "url": "https://iptv.nhadai.org/stream/vtv2-hd",
           "type": "hls",
           "default": true
         }
@@ -332,7 +332,7 @@
             "padding": 20
           },
           "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/3"
+            "url": "https://iptv.nhadai.org/stream/vtv3-hd"
           }
         },
         {

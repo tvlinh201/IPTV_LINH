@@ -309,7 +309,7 @@
             "height": 90,
             "padding": 20
           },
-          "remote_data": {
+          "stream_link": {
             "url": "http://iptv.nhadai.org/stream/vtv1-hd"
           }
         },
@@ -324,8 +324,10 @@
             "height": 90,
             "padding": 20
           },
-          "remote_data": {
+          "stream_link": {
             "url": "http://iptv.nhadai.org/stream/vtv2-hd"
+            "type": "hls",
+            "default": true
           }
         },
         {

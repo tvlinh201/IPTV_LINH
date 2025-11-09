@@ -14,9 +14,11 @@
     {
       "id": "vtv",
       "name": "Kênh VTV",
+      "display": "horizontal",
+      "grid_number": 1,
       "channels": [
         {
-          "id": "VTV1_HD",
+          "id": "vtv1",
           "name": "VTV1 HD",
           "url": "http://iptv.nhadai.org/stream/vtv1-hd",
           "image": {
@@ -25,7 +27,7 @@
           }
         },
         {
-          "id": "VTV2_HD",
+          "id": "vtv2",
           "name": "VTV2 HD",
           "url": "http://iptv.nhadai.org/stream/vtv2-hd",
           "image": {

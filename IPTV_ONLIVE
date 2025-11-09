@@ -35,34 +35,22 @@
           },
           "type": "single",
           "display": "text-below",
-          "sources": [
+    "sources": [
+    {
+        "id": "vtv1-hd",
+        "name": "VTV1 HD",
+        "stream_links": [
             {
-              "id": "vtv1-hd",
-              "name": "",
-              "contents": [
-                {
-              "id": "vtv1-hd",
-              "name": "",
-                  "streams": [
-                    {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
-                      "stream_links": [
-                        {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
-                          "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
+                "id": "vtv1-hd",
+                "name": "VTV1 HD",
+                "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+                "type": "hls",
+                "default": true
             }
-          ],
+        ],
+               "remote_data": null  
+    }
+],
           "related": null
         },
         {

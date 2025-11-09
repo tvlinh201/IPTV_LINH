@@ -16,13 +16,7 @@
     "height": 101,
     "width": 155
   },
-    {
-      "id": "tv",
-      "name": "TRUYỀN HÌNH",
-      "display": "horizontal",
-      "grid_number": 1,
-      "channels": [
-        {
+
           "id": "1",
           "name": "VTV1",
           "type": "single",
@@ -37,6 +31,6 @@
             "url": "https://vtvgo.4share.me/live-source/1"
           }
     }
-   ]
-  }
-}
+   
+  
+

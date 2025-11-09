@@ -37,12 +37,16 @@
           "display": "text-below",
           "sources": [
             {
-                  "id": "vtv1-hd",
+              "id": "vtv1-hd",
+              "name": "",
               "contents": [
                 {
-                  "id": "vtv1-hd",
+              "id": "vtv1-hd",
+              "name": "",
                   "streams": [
                     {
+                          "id": "vtv1-hd",
+                          "name": "VTV1 HD",
                       "stream_links": [
                         {
                           "id": "vtv1-hd",

@@ -26,7 +26,7 @@
     "stream_links": [
       {
         "url": "http://iptv.nhadai.org/stream/vtv1-hd",
-        "type": "hls",
+        
         "default": true
       }
     ]
@@ -44,7 +44,7 @@
     "stream_links": [
       {
         "url": "http://iptv.nhadai.org/stream/vtv2-hd",
-        "type": "hls",
+        
         "default": true
       }
     ]

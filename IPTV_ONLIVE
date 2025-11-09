@@ -24,7 +24,7 @@
       "name": "Nổi Bật",
       "channels": [
         {
-          "id": "VTV1_HD",
+          "id": "VTV1 HD",
           "name": "VTV1 HD",
           "image": {
             "display": "cover",
@@ -37,26 +37,26 @@
           "display": "text-below",
           "sources": [
             {
-              "id": "vtv1-hd",
-              "name": "",
+              "id": "VTV1 HD",
+              "name": "VTV1 HD",
               "contents": [
                 {
-              "id": "vtv1-hd",
-              "name": "",
+              "id": "VTV1 HD",
+              "name": "VTV1 HD",
                   "streams": [
                     {
-                          "id": "vtv1-hd",
+                          "id": "VTV1 HD",
                           "name": "VTV1 HD",
                       "stream_links": [
                         {
-                          "id": "VTV1_HD",
+                          "id": "VTV1 HD",
                           "name": "VTV1 HD",
                           "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
                           "type": "hls",
                           "default": true
                         }
                       ],
-                      "remote_data": null
+                         "remote_data": null
                     }
                   ]
                 }

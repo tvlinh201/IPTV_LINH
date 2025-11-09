@@ -318,6 +318,7 @@
           "default": true
         }
         ]
+          "remote_data": null
         },
         {
           "id": "3",

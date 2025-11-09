@@ -46,13 +46,7 @@
                     {
                       "id": "vtv1-hd",
                       "name": "VTV1 HD",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
-                        "height": 101,
-                        "width": 155
-                      },
+      
                       "stream_links": [
                         {
                           "id": "vtv1-hd",

@@ -1,191 +1,39 @@
 {
-  "id": "iptv vn",
-  "name": "IPTV VN",
+  "id": "IPTV",
+  "color": "#dd5916",
+  "name": "IPTV_VN",
   "url": "https://s.id/vulinh209",
-  "color": "#672CBF",
+  "description": "Xem Truyền Hình Trực Tuyến Viet Nam",
+  "disable_ads": true,
+  "grid_number": 1,
   "image": {
-    "url": "https://m3u-ip.com/images/m3u-iptv-white.png",
-    "display": "cover"
-  },
-  "description": "Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
-  "share": {
-    "url": "https://s.id/vulinh209"
+    "type": "cover",
+    "url": "https://m3u-ip.com/images/m3u-iptv-white.png"
   },
   "groups": [
     {
-      "id": "đp",
-      "name": "Địa Phương",
-      "display": "horizontal",
-      "grid_number": 1,
-      "channels": [ 
+      "id": "vtv",
+      "name": "Kênh VTV",
+      "channels": [
         {
-          "id": "kg",
-          "name": "Kiên Giang 1",
-          "type": "single",
-          "display": "thumbnail-only",
+          "id": "VTV1_HD",
+          "name": "VTV1 HD",
+          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
           "image": {
-            "url": "https://i.imgur.com/0TkI4Ar.png",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "stream_link": {
-            "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
-           }
-          },     
-        {
-          "id": "4",
-          "name": "VTV4",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV4_150x901_1675158857.webp",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/4"
+            "type": "square",
+            "url": "http://iptv.nhadai.org/img/vtv1-hd.png"
           }
         },
         {
-          "id": "vietnamtoday",
-          "name": "VIETNAM TODAY",
-          "type": "single",
-          "display": "thumbnail-only",
+          "id": "VTV2_HD",
+          "name": "VTV2 HD",
+          "url": "http://iptv.nhadai.org/stream/vtv2-hd",
           "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250906/2025090623/vvcemcZDle-VIETNAMTODAY-KENHVTVgo-150x90copy.webp",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/vietnamtoday"
-          }
-        },
-        {
-          "id": "5",
-          "name": "VTV5",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV5_150x901_1675158859.webp",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/5"
-          }
-        },
-        {
-          "id": "7",
-          "name": "VTV5 Tây Nam Bộ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/rame2608629831.jpg",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/7"
-          }
-        },
-        {
-          "id": "163",
-          "name": "VTV5 Tây Nguyên",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv5-tay-nguyen1.jpg",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/163"
-          }
-        },
-        {
-          "id": "27",
-          "name": "VTV7",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV7_150x901_1675158864.webp",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/27"
-          }
-        },
-        {
-          "id": "36",
-          "name": "VTV8",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/8_150x901_167515886611.jpg",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/36"
-          }
-        },
-        {
-          "id": "39",
-          "name": "VTV9",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV9_150x901_1675158866.webp",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/39"
-          }
-        },
-        {
-          "id": "6",
-          "name": "VTV Cần Thơ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
-            "width": 155,
-            "height": 101,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/6"
+            "type": "square",
+            "url": "http://iptv.nhadai.org/img/vtv2-hd.png"
           }
         }
-      ],
-      "remote_data": {
-        "url": "https://vtvgo.4share.me/livetv"
-      }
+      ]
     }
-],
-  "search": {
-    "paging": {
-      "page_key": "page",
-      "size_key": "limit"
-    },
-    "search_key": "textSearch",
-    "url": "https://vtvgo.4share.me/search",
-    "suggest_url": "https://vtvgo.4share.me/search/suggest"
-  },
-  "option": {
-    "save_history": false,
-    "save_search_history": true,
-    "save_wishlist": false
-  }
+  ]
 }

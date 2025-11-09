@@ -11,6 +11,8 @@
     "url": "https://m3u-ip.com/images/m3u-iptv-white.png"
   },
   "groups": [
+  "display": "horizontal",
+  "grid_number": 1,
   {
     "id": "1",
     "name": "VTV1 HD",

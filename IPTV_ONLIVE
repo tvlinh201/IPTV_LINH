@@ -1,13 +1,13 @@
 {
-  "id": "vtvgo",
-  "name": "VTVgo",
+  "id": "iptv vn",
+  "name": "IPTV VN",
   "url": "https://vtvgo.4share.me",
-  "color": "#004444",
+  "color": "#672CBF",
   "image": {
-    "url": "https://web-cache-aws.vtvdigital.vn/assets/images/logo-app.png",
+    "url": "https://m3u-ip.com/images/m3u-iptv-white.png",
     "display": "cover"
   },
-  "description": "VTVgo là sản phẩm của VTV, cung cấp nội dung trực tuyến đa dạng gồm kênh truyền hình, xem lại chương trình, Phim truyền hình, Video tin tức, Giải trí, Thể thao",
+  "description": "Xem Chương Trình Truyền Hình Trực Tuyến Miễn Phí",
   "share": {
     "url": "https://vtvgo.4share.me"
   },

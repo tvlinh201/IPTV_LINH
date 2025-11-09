@@ -18,8 +18,9 @@
       "grid_number": 1,
       "channels": [
         {
-          "id": "vtv1",
+          "id": "VTV1_HD",
           "name": "VTV1 HD",
+          "type": "hls",
           "url": "http://iptv.nhadai.org/stream/vtv1-hd",
           "image": {
             "type": "square",
@@ -27,8 +28,9 @@
           }
         },
         {
-          "id": "vtv2",
+          "id": "VTV2_HD",
           "name": "VTV2 HD",
+          "type": "hls",
           "url": "http://iptv.nhadai.org/stream/vtv2-hd",
           "image": {
             "type": "square",

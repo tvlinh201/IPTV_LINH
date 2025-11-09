@@ -299,28 +299,6 @@
       "grid_number": 1,
       "channels": [ 
         {
-          "id": "2",
-          "name": "VTV2",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV2_150x902_1675158864.webp",
-            "width": 150,
-            "height": 90,
-            "padding": 20
-          },
-        "stream_links": [
-        {
-          "id": "2",
-          "name": "VTV2",
-          "url": "https://iptv.nhadai.org/stream/vtv2-hd",
-          "type": "hls",
-          "default": true
-        }
-        ]
-          "remote_data": null
-        },
-        {
           "id": "3",
           "name": "VTV3",
           "type": "single",

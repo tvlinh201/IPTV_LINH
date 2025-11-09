@@ -17,32 +17,6 @@
     "icon": "https://vtvgo.4share.me/static/img/tele.png",
     "closeable": true
   },
-  "sorts": [
-    {
-      "id": "truyen-hinh",
-      "text": "Truyền Hình",
-      "type": "radio",
-      "url": "https://vtvgo.4share.me/livetv"
-    },
-    {
-      "id": "kenh-video",
-      "text": "Kênh Video",
-      "type": "radio",
-      "url": "https://vtvgo.4share.me/display-block/34b8e96c-54c4-4c29-a6fd-65f9c7eb6960"
-    },
-    {
-      "id": "vtv-giai-tri",
-      "text": "VTV Giải Trí",
-      "type": "radio",
-      "url": "https://vtvgo.4share.me/display-block/digitalvodchannel_163"
-    },
-    {
-      "id": "vtvgo-shorts",
-      "text": "VTVgo Shorts",
-      "type": "radio",
-      "url": "https://vtvgo.4share.me/display-block/b1bd5adb-c8b8-4e34-ae83-978a2bdf7796"
-    }
-  ],
   "groups": [
     {
       "id": "tv",

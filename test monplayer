@@ -13,31 +13,51 @@
   },
   "groups": [
     {
-      "id": "đp",
-      "name": "Địa Phương",
-      "display": "horizontal",
-      "grid_number": 1,
-      "channels": [ 
+      "id": "ca-nhan",
+      "name": "Nổi Bật",
+      "channels": [
         {
-          "id": "6",
-          "name": "VTV Cần Thơ",
-          "type": "single",
-          "display": "thumbnail-only",
+          "id": "VTV1 HD",
+          "name": "VTV1 HD",
           "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
-            "width": 155,
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
             "height": 101,
-            "padding": 20
+            "width": 155
           },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/6"
-          }
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "VTV1 HD",
+              "name": "VTV1 HD",
+              "contents": [
+                {
+              "id": "VTV1 HD",
+              "name": "VTV1 HD",
+                  "streams": [
+                    {
+                          "id": "VTV1 HD",
+                          "name": "VTV1 HD",
+                      "stream_links": [
+                        {
+                          "id": "VTV1 HD",
+                          "name": "VTV1 HD",
+                          "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                    "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ], 
+                    "related": null
         }
-      ],
-      "remote_data": {
-        "url": "https://vtvgo.4share.me/livetv"
-      }
-    }
 ],
 
 

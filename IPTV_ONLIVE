@@ -32,7 +32,7 @@
             "width": 155
           },
           "type": "single",
-          "display": "text-below",
+          "display": "text-below-center",
           "sources": [
             {
               "id": "VTV1 HD",

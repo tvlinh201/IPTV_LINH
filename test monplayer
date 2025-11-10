@@ -15,6 +15,7 @@
     {
       "id": "vtv",
       "name": "VTV",
+      "display": "horizontal",
       "channels": [
         {
           "id": "VTV1 HD",

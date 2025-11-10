@@ -451,7 +451,7 @@
         }
       ],
       "display": "horizontal",
-      "grid_columns": 1
+      "grid_columns": null,
       "remote_data": {
         "enable": false,
         "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
@@ -462,7 +462,7 @@
       "id": "related-providers",
       "name": "👀Có thể bạn quan tâm",
       "display": "horizontal",
-      "grid_number": null,
+      "grid_number": 1,
       "groups": [
         {
           "id": "ophim",

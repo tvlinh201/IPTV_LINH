@@ -16,6 +16,7 @@
       "id": "vtv",
       "name": "VTV",
       "display": "horizontal",
+      "grid_number": 1,
       "channels": [
         {
           "id": "VTV1 HD",

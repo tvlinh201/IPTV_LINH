@@ -462,7 +462,7 @@
       "id": "related-providers",
       "name": "👀Có thể bạn quan tâm",
       "display": "horizontal",
-      "grid_number": 1,
+      "grid_number": null,
       "groups": [
         {
           "id": "ophim",

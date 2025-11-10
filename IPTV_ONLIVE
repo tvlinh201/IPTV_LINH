@@ -452,6 +452,7 @@
       ],
       "display": "horizontal",
       "grid_columns": null,
+      "grid_rows": 1,
       "remote_data": {
         "enable": false,
         "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
@@ -505,11 +506,4 @@
       "size_key": "size"
     }
   },
-  "notice": {
-    "id": "notice-1",
-    "link": "https://t.me/xemgicungshare",
-    "text": "Telegram Support",
-    "icon": "http://iptv.nhadai.org/tele.png",
-    "closeable": true
-  }
 }

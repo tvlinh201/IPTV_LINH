@@ -451,8 +451,7 @@
         }
       ],
       "display": "horizontal",
-      "grid_columns": null,
-      "grid_rows": 1,
+      "grid_columns": 1
       "remote_data": {
         "enable": false,
         "url": "http://iptv.nhadai.org/group?s=CA_NHAN"

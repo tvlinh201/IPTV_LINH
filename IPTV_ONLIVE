@@ -505,11 +505,5 @@
       "size_key": "size"
     }
   },
-  "notice": {
-    "id": "notice-1",
-    "link": "https://t.me/xemgicungshare",
-    "text": "Telegram Support",
-    "icon": "http://iptv.nhadai.org/tele.png",
-    "closeable": true
-  }
+
 }

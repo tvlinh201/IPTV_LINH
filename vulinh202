@@ -150,13 +150,15 @@ https://live.canthotv.vn/live/cs3/chunklist_w288174403.m3u8
 
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đồng Tháp 1
 #http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
-https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1416178247.m3u8
+#https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1416178247.m3u8
+https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đồng Tháp 2 — Miền Tây
 #http://123.25.238.45:1935/live/thtg/playlist.m3u8
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1397876571.m3u8
 
 #EXTINF:-1 tvg-id="tayninh" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Tây Ninh 1
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+#https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Tây Ninh 2
 #https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 #https://xem.hoiquan.click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8

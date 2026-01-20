@@ -274,7 +274,7 @@ https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 #EXTINF:0 tvg-id="sctv4hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/4_23b344ec.jpg",SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-https://liveh34.vtvprime.vn/hls/SCTV4/03.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 
 #EXTINF:0 tvg-id="sctv5hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/5_4efd92d7.jpg",SCTV5
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s2/index.m3u8|Referer=http://sctvonline.vn

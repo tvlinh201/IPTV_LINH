@@ -256,107 +256,130 @@ https://wse.hatinhtv.net/live/httv1/chunklist_w271915096.m3u8
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/1_cc823220.jpg", SCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 
 #EXTINF:0 tvg-id="sctv2hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/2_fd5dc799.jpg",SCTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+#https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=201
 
 #EXTINF:0 tvg-id="sctv3hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/3_efafd3ec.jpg",SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv4hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/4_23b344ec.jpg",SCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+https://liveh34.vtvprime.vn/hls/SCTV4/03.m3u8
 
 #EXTINF:0 tvg-id="sctv5hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/5_4efd92d7.jpg",SCTV5
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/s2/index.m3u8|Referer=http://sctvonline.vn
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv5|Referer=http://sctvonline.vn/
 #https://sctv.locket.website/sctvonline.m3u8?protected=Pj2s273s2bxlysqOxBhT7SOTMhlx/AjKyGz2ngjWtKwOLPZJJYCQV5xbxEdv2lSepGEf3QQ7XDDos4E+ujtlhQ==&channel=sctv5&tvfree=true
 
+
 #EXTINF:0 tvg-id="sctv6hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg",SCTV6
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
+
 #EXTINF:0 tvg-id="sctv7hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_15259bbf.jpg",SCTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv8hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/8_efcc1082.jpg",SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv9hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg",SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+https://liveh34.vtvprime.vn/hls/SCTV9/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv10hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg",SCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
+https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv11hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg",SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv12hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/12_c58b7453.jpg",SCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv13hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",SCTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv14hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/14_614545db.jpg",SCTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv15hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/15_f6a8241e.jpg",SCTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
+https://liveh34.vtvprime.vn/hls/SCTV15/03.m3u8
 
 #EXTINF:0 tvg-id="sctv16hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg",SCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
 
 
 #EXTINF:0 tvg-id="sctv17hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/17_03ba5e54.jpg",SCTV17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
+https://liveh34.vtvprime.vn/hls/SCTV17/03.m3u8
 
 #EXTINF:0 tvg-id="sctv18hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/18_664a253b.jpg",SCTV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
+https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 
 #EXTINF:0 tvg-id="sctv19hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/19_3b86f52a.jpg",SCTV19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 
 #EXTINF:0 tvg-id="sctv20hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/20_6c70556d.jpg",SCTV20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 
 #EXTINF:0 tvg-id="ssctv21hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/21_8f6788be.jpg",SCTV21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 
 #EXTINF:0 tvg-id="sctv22hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/22_881fabb7.jpg",SCTV22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
 
 #EXTINF:0 tvg-id="sctvhdpth" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/82_51400b18.jpg",SCTV Phim TH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv23
+#https://freem3u.xyz/api/live/play.m3u8?tid=sctv23
+https://liveh34.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 #EXTINF:0 tvg-id="btv5hd" group-title="💜|SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/68_ad4ad421.jpg",BTV5
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3

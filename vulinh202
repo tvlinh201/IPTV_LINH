@@ -106,14 +106,16 @@ http://iptv.nhadai.org/stream/antv
 http://iptv.nhadai.org/stream/thvl1
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/kcanTCT.png",THVL2
 #https://tthd.site/360/26/index.m3u8
-http://iptv.nhadai.org/stream/vinh-long-2
+#http://iptv.nhadai.org/stream/vinh-long-2
+https://freem3u.xyz/api/live/play.m3u8?vid=26
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/zS1zTpv.png",THVL3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://iptv.nhadai.org/stream/vinh-long-3
+#http://iptv.nhadai.org/stream/vinh-long-3
+https://freem3u.xyz/api/live/play.m3u8?vid=219
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/tbZo2NR.png",THVL4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://iptv.nhadai.org/stream/vinh-long-4-hd
-
+#http://iptv.nhadai.org/stream/vinh-long-4-hd
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",THVL5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=91
@@ -128,13 +130,14 @@ http://iptv.nhadai.org/stream/an-giang
 #https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Bà Rịa Vũng Tàu
-http://iptv.nhadai.org/stream/ba-ria-vung-tau
+#http://iptv.nhadai.org/stream/ba-ria-vung-tau
 
 
 #EXTINF:-1 tvg-id="camau" tvg-logo="https://i.imgur.com/iM9WCcm.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://tv.ctvcamau.vn/live/tv/tv.m3u8
-http://iptv.nhadai.org/stream/ca-mau
+#http://iptv.nhadai.org/stream/ca-mau
+https://freem3u.xyz/api/live/play.m3u8?vid=46
 
 #EXTINF:-1 tvg-id="cantho" tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Cần Thơ 1
 http://iptv.nhadai.org/stream/can-tho
@@ -162,35 +165,39 @@ https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tayninh" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_nen_tang_so_TTV_vien_den.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Tây Ninh 2
 #https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 #https://xem.hoiquan.click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8
-https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
+#https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",BTV1
 #https://tthd.site/360/42/index.m3u8
-http://iptv.nhadai.org/stream/binh-duong-1
+#http://iptv.nhadai.org/stream/binh-duong-1
 #EXTINF:-1 tvg-id="binhduong2" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",BTV2
 #https://tthd.site/360/43/index.m3u8
-http://iptv.nhadai.org/stream/binh-duong-2
+#http://iptv.nhadai.org/stream/binh-duong-2
 #EXTINF:-1 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",BTV9
 #https://tthd.site/360/151/index.m3u8
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+#https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://i.imgur.com/oQyioVa.png",Đồng Nai 1
 #https://tthd.site/360/53/index.m3u8
 #http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-http://iptv.nhadai.org/stream/dong-nai-1
+#http://iptv.nhadai.org/stream/dong-nai-1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Kênh Địa phương" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2
 #https://tthd.site/360/255/index.m3u8
 #http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-http://iptv.nhadai.org/stream/dong-nai-2
+#http://iptv.nhadai.org/stream/dong-nai-2
+https://freem3u.xyz/api/live/play.m3u8?vid=255
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="danang1" tvg-logo="https://i.imgur.com/EdXvjrH.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đà Nẵng 1
-http://iptv.nhadai.org/stream/da-nang-1
+#http://iptv.nhadai.org/stream/da-nang-1
+https://freem3u.xyz/api/live/play.m3u8?vid=49
 #EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.imgur.com/6SujuqZ.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Đà Nẵng 2
-http://iptv.nhadai.org/stream/da-nang-2
+#http://iptv.nhadai.org/stream/da-nang-2
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 tvg-id="lamdong" tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Lâm Đồng 1
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="lamdong" tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Lâm Đồng 3
